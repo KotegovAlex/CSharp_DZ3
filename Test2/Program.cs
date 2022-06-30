@@ -46,7 +46,7 @@ if (number < 10)
 else
 {
     int temp = number;
-    while (count < (r  / 2))
+    while (temp > 1)
     {
         if ((temp / i) == (temp % j))
         {
